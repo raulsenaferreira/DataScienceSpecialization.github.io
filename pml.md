@@ -11,6 +11,7 @@ permalink: /pml/
 
 ## Supplementary Videos
 
+- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk): A high-level overview of machine learning in a 10-minute video
 - [Video lectures from "An Introduction to Statistical Learning"](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/): Videos for Chapters 4, 5, 6, 8, and 10 can help to deepen your understanding of the topics presented in this course.
 
 ## Machine Learning Competitions
@@ -20,3 +21,7 @@ permalink: /pml/
 ## Choosing a Machine Learning Model
 
 - [Comparing Supervised Learning Algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/): Comparing 8 common supervised learning algorithms (for regression and classification) on 13 different dimensions.
+
+## Comprehensive Notes
+
+- Complete notes for [Practical Machine Learning](http://sux13.github.io/DataScienceSpCourseNotes/)
